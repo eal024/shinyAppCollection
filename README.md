@@ -10,7 +10,7 @@ Lenker:<br>
 Her er [appen](https://eirik-andre-lamy.shinyapps.io/shinyAppCollection/)<br>mens her er [R-koden](https://github.com/eal024/shinyAppCollection/blob/main/shiny_app_samfunnsgevinst.R).<br>
 Basert på artikkelen i [Arbeid og velferd:](https://www.nav.no/no/nav-og-samfunn/kunnskap/analyser-fra-nav/arbeid-og-velferd/arbeid-og-velferd/arbeid-og-velferd-nr.2-2021/mulig-samfunnsgevinst-av-arbeid-fremfor-uforetrygd)<br> 
 
-###  Eksempel 2: Linegraf med nedtrekksvalg
+###  Eksempel 2: Linjegraf med nedtrekksvalg
 
 I forbindelse med [Navs Omverdensanalyse](https://data.nav.no/omverdensanalyse/index.html) presenterte vi dataene med interaktive figurer. Dette med bruk av [Highchart](https://www.highcharts.com/) og Quarto. Vi forsøkte å legge til et par ytterligere funksjoner, men fikk ikke løst utfordringer med intern server (shinyapps.io-ble ikke godkjent til bruk). Appen hvor man kunne velge befolkningsframskrivningen (til SSB) for by og fylke, ble derfor ikke med i nettversjonen.         
 
