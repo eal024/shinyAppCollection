@@ -1,0 +1,13 @@
+name: shinyAppCollection
+title: shinyAppCollection
+username:
+account: eirik-andre-lamy
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5564096
+bundleId: 5563932
+url: https://eirik-andre-lamy.shinyapps.io/shinyAppCollection/
+when: 1644480085.18272
+lastSyncTime: 1644480085.18272
+asMultiple: FALSE
+asStatic: FALSE
