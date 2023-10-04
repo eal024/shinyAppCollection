@@ -18,4 +18,3 @@ Her er appen -- slik den ville ha fungert hvis vi hadde tatt den med. Satser paa
 
 Lenker:<br>
 Her er [appen:](https://eirik-andre-lamy.shinyapps.io/omverdensanalyse/)<br>og her er [R-koden](https://github.com/eal024/shinyAppCollection/blob/main/shiny_app_oma_demografi.R).<br>
-
