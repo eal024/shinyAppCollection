@@ -1,6 +1,6 @@
 # shinyAppCollection
 
-Dette prosjektet inneholer noen eksempler på shiny-apper. Repoet er privat, og data er fra åpne kilder.   
+Dette prosjektet inneholer noen eksempler på shiny-apper. Data er fra åpne kilder.   
 
 ###  Eksempel 1: Utregning av samfunnsgevinst
 
